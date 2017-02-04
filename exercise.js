@@ -100,6 +100,7 @@ var fbFriends = ["Khalid", "Yeezy", "Kimmy K", "Lamar Odom", "Lebron", "Warren B
 var unFriend = fbFriends.slice(1,4);
 console.log(unFriend);
 console.log("that was fun");
+console.log("that was also fun");
 
 
 
